@@ -1,4 +1,4 @@
-- Français : - Contrôle des indicateurs et feux de détresse
+# - Français : - Contrôle des indicateurs et feux de détresse
 
 Cette ressource FiveM vous permet de contrôler les indicateurs et les feux de détresse des véhicules pour un joueur individuel.
 
@@ -25,7 +25,7 @@ Pour contrôler les indicateurs :
 
 Les contributions sous forme de pull requests sont les bienvenues ! N'hésitez pas à améliorer cette ressource ou à ajouter de nouvelles fonctionnalités.
 
-- English : - Vehicle Indicator and Hazard Lights Control
+# - English : - Vehicle Indicator and Hazard Lights Control
 
 This FiveM resource allows you to control the indicators and hazard lights of vehicles for an individual player.
 
