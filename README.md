@@ -11,7 +11,7 @@ Cette ressource FiveM vous permet de contrôler les indicateurs et les feux de d
 ## Installation
 
 1. Copiez la ressource dans votre dossier `[votre-serveur]/resources`.
-2. Ajoutez `start sd-indicators` à votre fichier de configuration `server.cfg`.
+2. Ajoutez `start sd-indicators` à votre fichier `server.cfg`.
 
 ## Utilisation
 
