@@ -11,7 +11,7 @@ Cette ressource FiveM vous permet de contrôler les indicateurs et les feux de d
 ## Installation
 
 1. Copiez la ressource dans votre dossier `[votre-serveur]/resources`.
-2. Ajoutez `start nom-de-la-ressource` à votre fichier de configuration `server.cfg`.
+2. Ajoutez `start sd-indicators` à votre fichier de configuration `server.cfg`.
 
 ## Utilisation
 
@@ -38,7 +38,7 @@ This FiveM resource allows you to control the indicators and hazard lights of ve
 ## Installation
 
 1. Copy the resource into your `[your-server]/resources` folder.
-2. Add `start resource-name` to your `server.cfg` configuration file.
+2. Add `start sd-indicators` to your `server.cfg` configuration file.
 
 ## Usage
 
